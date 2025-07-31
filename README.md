@@ -43,7 +43,6 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 ## Выдача прав и просмотр прав
 ![UserPriv](https://github.com/zlodey-paha/12-02/blob/main/Work1/4%2B5.UserPrivileges%2BGrants.PNG)
-![UserShow]()
 
 ## Переподключение и смена типа аутентификации
 ![UserPlugin](https://github.com/zlodey-paha/12-02/blob/main/Work1/6.1.UserPlugin.PNG)
