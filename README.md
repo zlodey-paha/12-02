@@ -29,6 +29,39 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 ### Решение 1
 
+## Установка MySQL
+![Docker](https://github.com/zlodey-paha/12-02/blob/main/Work1/1.1.Docker.PNG)
+![SQLInstall](https://github.com/zlodey-paha/12-02/blob/main/Work1/1.2.SQLinstall.PNG)
+![DockerRun](https://github.com/zlodey-paha/12-02/blob/main/Work1/1.3.DockerRun.PNG)
+![SQL](https://github.com/zlodey-paha/12-02/blob/main/Work1/1.4.SQL.PNG)
+
+## Создание УЗ
+![SQLUser](https://github.com/zlodey-paha/12-02/blob/main/Work1/2.SQLUser.PNG)
+
+## Просмотр УЗ
+![UserViewer](https://github.com/zlodey-paha/12-02/blob/main/Work1/2%2B3.Create%2BViewerUser.PNG)
+
+## Выдача прав и просмотр прав
+![UserPriv](https://github.com/zlodey-paha/12-02/blob/main/Work1/4%2B5.UserPrivileges%2BGrants.PNG)
+![UserShow]()
+
+## Переподключение и смена типа аутентификации
+![UserPlugin](https://github.com/zlodey-paha/12-02/blob/main/Work1/6.1.UserPlugin.PNG)
+
+## Скачивание БД
+![Download](https://github.com/zlodey-paha/12-02/blob/main/Work1/6.2.1.Download.PNG)
+![Unzip](https://github.com/zlodey-paha/12-02/blob/main/Work1/6.2.2.Unzip.PNG)
+![Copy](https://github.com/zlodey-paha/12-02/blob/main/Work1/6.2.3.Copy.PNG)
+
+## Восстановление
+![DownloadBase](https://github.com/zlodey-paha/12-02/blob/main/Work1/7.1.Download%20base.PNG)
+![ShowBase](https://github.com/zlodey-paha/12-02/blob/main/Work1/7.2.ShowBase.PNG)
+![ViewerBase](https://github.com/zlodey-paha/12-02/blob/main/Work1/7.3.ViewerBase.PNG)
+![ViewerTable](https://github.com/zlodey-paha/12-02/blob/main/Work1/7.4.ViewerTable.PNG)
+
+## ER диаграмма + таблицы
+![Schema](https://github.com/zlodey-paha/12-02/blob/main/Work1/8.1.Schema.PNG)
+![ViewerTable](https://github.com/zlodey-paha/12-02/blob/main/Work1/8.2.ViewerTable.PNG)
 
 --------------------------------------------------------------------------------------------
 
